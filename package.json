@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "pg": "0.15.x",
-    "mongo-sql": "1.0.x",
+    "mongo-sql": "1.0.x"
   },
   "keywords": [
     "postgres",

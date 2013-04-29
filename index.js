@@ -1,1 +1,1 @@
-module.exports = require('mongo-pg');
+module.exports = require('./lib/mongo-pg');
