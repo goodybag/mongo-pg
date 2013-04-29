@@ -1,6 +1,6 @@
 {
   "name": "mongo-pg",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A mongo-like interface for postgres",
   "main": "index.js",
   "directories": {
@@ -15,8 +15,7 @@
   },
   "dependencies": {
     "pg": "0.15.x",
-    "mongo-sql": "0.0.x",
-    "generic-pool": "2.0.x"
+    "mongo-sql": "1.0.x",
   },
   "keywords": [
     "postgres",
