@@ -270,4 +270,4 @@ Most of the default conditional helpers cascade and most (if not all) of the val
 
 ## Examples
 
-TODO. For now, you can look at the (Mongo-SQL)[https://github.com/goodybag/mongo-sql] tests.
+TODO. For now, you can look at the [Mongo-SQL](https://github.com/goodybag/mongo-sql) tests.
